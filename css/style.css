@@ -1,0 +1,575 @@
+* {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+body {
+  margin: 0 auto;
+  padding: 0;
+}
+
+/* WIDTH */
+
+.main-nav,
+.footer_signup,
+.section_six,
+.Agency-row {
+  margin: 0 auto;
+  width: 1140px;
+}
+
+header,
+.footer,
+.section_three,
+.section_two,
+.section_four,
+.section_five {
+  margin: 0 auto;
+  width: 1440px;
+}
+
+/* WIDTH */
+
+/* SECTION 1 */
+/* SECTION 1 */
+/* SECTION 1 */
+
+header {
+  height: 704px;
+  background-color: black;
+  margin: 0;
+  /* text-align: center; */
+  margin: 0 auto;
+  position: relative;
+}
+
+/* NAV BAR */
+/* NAV BAR */
+/* NAV BAR */
+
+.main-nav {
+  margin: 23px 1223px 649px 135px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  margin: 0 auto;
+  margin: 0 auto;
+}
+
+.nav-list {
+  list-style: none;
+  padding: 0;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  height: 40px;
+}
+
+.nav-list li {
+  margin-right: 57px;
+  margin-top: 0px;
+}
+
+.nav-list img {
+  height: 100%;
+}
+
+/* SECTION 1 */
+/* SECTION 1 */
+/* SECTION 1 */
+
+.section_one {
+  width: 60%;
+  margin-left: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.section_one > h1 {
+  margin-top: 146px;
+  margin-bottom: 0;
+  z-index: 2;
+}
+
+.Fukuoka_text img {
+  aspect-ratio: 1 / 1;
+  height: 100%;
+}
+
+.Fukuoka_text {
+  height: 62px;
+  margin-top: 49px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 40px;
+}
+
+.section_one > .Fukuoka_text > p {
+  /* margin-left: 100px; */
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.picture {
+  width: 570px;
+  height: 624px;
+  position: absolute;
+
+  z-index: 0;
+  top: 17rem;
+  left: 41.5%;
+  z-index: 1;
+}
+.star {
+  position: absolute;
+  top: 14.5rem;
+  left: 65.6%;
+}
+
+.arrow_button {
+  margin-left: 135px;
+}
+
+.border_bottom_line {
+  width: 100%;
+  margin-top: 295px;
+  margin-bottom: 302px;
+  border-bottom: 1px solid;
+  padding-bottom: 144px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 24px;
+}
+
+/* SECTION 2 */
+/* SECTION 2 */
+/* SECTION 2 */
+
+.section_two {
+  margin-top: 450px;
+}
+
+.girl-und_text {
+  display: flex;
+  flex-direction: row;
+  margin-top: 200px;
+}
+
+.girl {
+  margin-right: 100px;
+}
+
+.section_two_text {
+  text-align: start;
+}
+
+.lets {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  width: 449px;
+}
+
+.Best {
+  width: 470px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 105px;
+}
+
+.but-text {
+  display: flex;
+  flex-direction: row;
+}
+.button {
+  margin-right: 115px;
+  margin-bottom: 10px;
+}
+.ex {
+  margin-bottom: 15px;
+}
+
+/* SECTION 3 */
+/* SECTION 3 */
+/* SECTION 3 */
+
+.section_three {
+  margin-top: 163px;
+  background-color: black;
+  padding-bottom: 106px;
+}
+
+.tree_text {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  padding-top: 137px;
+  margin-bottom: 0;
+  color: white;
+}
+
+.Our {
+  margin-left: 135px;
+  margin-top: 0px;
+  margin-right: 228px;
+  margin-bottom: 0;
+}
+.Minuteness {
+  margin-right: 150px;
+  margin-top: 0px;
+  margin-bottom: 0;
+}
+
+.tree_foto {
+  display: flex;
+  flex-direction: row;
+  /*  justify-content: space-between; */
+  gap: 30px;
+  margin-top: 127px;
+  width: 1194px;
+  margin-left: 117px;
+  height: 288px;
+  margin-bottom: 80px;
+}
+
+.green_photo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 48px 32px 48px 48px;
+  background-color: #9013fe;
+}
+
+.pins {
+  height: 6px;
+  align-self: center;
+  justify-self: center;
+}
+
+/* SECTION 4 */
+/* SECTION 4 */
+/* SECTION 4 */
+
+.section_four {
+  margin-top: 150px;
+  background-color: white;
+  /* display: flex;
+  flex-direction: column;
+  align-items: flex-start; */
+}
+
+.four_text {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+
+  padding-bottom: 85px;
+  border-bottom: 1px solid;
+}
+
+.four_text P {
+  margin-top: 0;
+  margin-left: 135px;
+  margin-bottom: 0;
+}
+
+.Check {
+  margin-right: 165px;
+}
+
+.foto-nav {
+  margin-left: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.four_nav {
+  margin-top: 73px;
+  margin-left: 135px;
+  text-align: start;
+}
+
+.dog_foto {
+  background-color: #f8e71c;
+  width: 870px;
+  height: 416px;
+  margin-left: 135px;
+  margin-right: 135px;
+  margin-top: 78px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.dog {
+  width: 376px;
+  height: 470px;
+  margin-right: 111px;
+  margin-bottom: 49px;
+  align-self: center;
+}
+.dog-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+.dogtext_1 {
+  margin-left: 48px;
+}
+
+.dogtext_2 {
+  margin-left: 48px;
+  margin-bottom: 57px;
+ 
+}
+
+.wom-but {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.womenbox {
+  width: 870px;
+  height: 416px;
+  margin-right: 135px;
+  margin-top: 47px;
+  background-color: #ff564f;
+  display: flex;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.women {
+  width: 614px;
+  height: 435px;
+  margin-left: 11px;
+  align-self: flex-end;
+}
+
+.brand-amaz {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  margin-left: 48px;
+}
+.loadbutton {
+  width: 170px;
+  height: 48px;
+  margin-right: 485px;
+  margin-top: 80px;
+}
+
+/* SECTION 5 */
+/* SECTION 5 */
+/* SECTION 5 */
+
+.section_five {
+  display: flex;
+  flex-direction: row;
+  margin-top: 112px;
+  height: 464px;
+  padding: 0;
+  background-color: rgb(0, 0, 0);
+}
+
+.text_cv_h1,
+.text_cv p {
+  margin: 0;
+  width: inherit;
+}
+
+.text_cv {
+  margin: 153px 145px 183px 135px;
+  width: 455px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 34px;
+}
+
+.cv_girl_row {
+  display: flex;
+  flex-direction: row;
+
+  margin-bottom: 107px;
+}
+
+.cv_girl_row img {
+  aspect-ratio: 1 / 1;
+  height: 80px;
+}
+
+.cv_girl p {
+  margin: 0;
+}
+
+.cv_girl {
+  margin-top: 144px;
+  width: 470px;
+  height: 512px;
+  border-radius: 3px;
+  background-color: #417505;
+  padding: 48px 48px 48px 48px;
+}
+
+.CV_Title h1,
+.CV_Title h3 {
+  margin-top: 5px;
+  margin-left: 26px;
+  margin-bottom: 0;
+}
+
+.lila {
+  margin-top: 144px;
+  height: 512px;
+  margin-left: 30px;
+}
+
+.arrow_button2 {
+
+
+  width: 104px;
+  height: 48px;
+
+  margin: 225px 0 0 23px;
+}
+
+/* SECTION 6 */
+/* SECTION 6 */
+/* SECTION 6 */
+
+.six-logo {
+  margin-top: 320px;
+  margin-bottom: 103px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 80px;
+  padding: 90px 0 90px 0;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}
+
+.six-logo img {
+  width: 100px;
+  height: 30px;
+}
+
+.Our_latest {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.Our_latest .Check,
+.Our_latest .Minuteness_2 {
+  margin-top: 0;
+  margin-left: 0px;
+}
+
+.article_row {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+  gap: 30px;
+}
+
+.articles h1 {
+  width: 80%;
+}
+
+/* footer */
+/* footer */
+/* footer */
+
+.footer {
+  background-color: black;
+  height: 864px;
+}
+
+.Agency {
+  width: 198px;
+}
+
+.Agency-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.Agency > ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer_signup {
+  padding-top: 135px;
+  padding-bottom: 105px;
+  margin-bottom: 185px;
+  border-bottom: 1px solid;
+  border-color: white;
+}
+
+.footer_signup p {
+  margin: 0;
+}
+.footer {
+  position: relative;
+}
+
+.form {
+  padding: 43px 48px 64px 48px;
+
+  height: 288px;
+
+  width: 470px;
+
+  background-color: #ff564f;
+  border-radius: 3px;
+}
+
+.form_sign {
+  display: flex;
+  flex-direction: column;
+}
+
+.form_sign button {
+  border: none;
+  border-radius: 3px;
+  padding: 14px 145px 15px 145px;
+  background-color: #ff564f;
+  border-radius: 3px;
+}
+
+.form_sign input {
+  border: none;
+  height: 48px;
+  margin-top: 21px;
+  margin-bottom: 32px;
+  border-radius: 3px;
+}
+
+.form {
+  position: absolute;
+  z-index: 1;
+  transform-origin: top right;
+  top: 135px;
+  right: 235px;
+}
+
+@media only screen and (min-width: 375px) and (orientation:landscape) {
+
+  .Hide_desktop {
+    display: none;
+  }
+}

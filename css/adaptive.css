@@ -1,0 +1,486 @@
+@media only screen and (max-width: 375px) and (orientation:portrait) {
+
+
+    .main-nav,
+    .footer_signup,
+    .section_six,
+    .Agency-row {
+      margin: 0 auto;
+      width: 329px;
+    }
+    
+    header,
+    .footer,
+    .section_three,
+    .section_two,
+    .section_four,
+    .section_five {
+      margin: 0 auto;
+      width: 375px;
+    }
+    
+
+
+
+    .nav-list li {
+        display: none;
+    }
+
+
+    .section_one {
+
+        width: 329px;
+  margin-left: 23px;
+  
+
+
+    }
+
+    .section_one > h1 {
+
+        margin-top: 63px;
+        width: 312px;
+        height: 192px;
+    }
+
+    .star { 
+
+        display: none;
+    }
+
+    .picture {
+        width: 375px;
+        height: 406px;
+        position: absolute;
+      
+        z-index: 0;
+        top: 550px;
+        left: 0px;
+        
+        z-index: 1;
+      }
+
+
+      .arrow_button {
+        margin-left: 0px;
+        
+      }
+
+      .border_bottom_line {
+        margin-left: 23px;
+        margin-right: 23px;
+        margin-top: 550px;
+        margin-bottom: 202px;
+        border-bottom: 1px solid;
+        padding-bottom: 64px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        gap: 24px;
+      }
+
+/* SECTION 2 */
+/* SECTION 2 */
+/* SECTION 2 */
+
+.section_two {
+    margin-top: 450px;
+  }
+
+  .girl-und_text {
+    display: flex;
+    flex-direction: column;
+    margin-top: 200px;
+  }
+
+
+  .girl img {
+    height: 290px;
+    width: 375px;
+  }
+
+  .section_two_text {
+margin-right: 23px;
+margin-left: 23px;
+
+  }
+
+  .section_two_text p {
+
+    width: 329px;
+    margin-bottom: 20px;
+  }
+
+  .Best {
+
+    margin-top: 16px;
+    margin-bottom: 50px;
+    
+  }
+  
+
+  .button {
+    margin-right: 33px;
+    margin-bottom: 112px;
+  }
+
+  .but-text p {
+    margin-top: 16px;
+    padding-top: 0px;
+  }
+
+  /* SECTION 3 */
+  /* SECTION 3 */
+  /* SECTION 3 */
+
+
+  .tree_text {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 52px;
+  
+    padding-top: 137px;
+    margin-bottom: 0;
+    color: white;
+  }
+
+  
+.Our {
+    margin-left: 23px;
+    margin-top: 0px;
+    margin-right: 23px;
+    margin-bottom: 0;
+  }
+  .Minuteness {
+    margin-right: 23px;
+    margin-top: 0px;
+    margin-bottom: 0;
+    margin-left: 23px;
+  }
+
+
+  .green_photo {
+    
+    padding: 48px 23px 48px 23px;
+    background-color: #9013fe;
+  }
+
+  .tree_foto {
+    display: flex;
+    flex-direction: row;
+    /*  justify-content: space-between; */
+    gap: 30px;
+    margin-top: 80px;
+    width: 329px;
+    margin-left: 23px;
+    height: 384px;
+    margin-bottom: 0px;
+    margin-right: 23px;
+  }
+
+  .pins {
+    margin-top: 64px;
+  }
+
+/* SECTION 4 */
+/* SECTION 4 */
+/* SECTION 4 */
+
+
+.four_text P {
+    
+    margin-left: 0px;
+    
+  }
+
+
+
+  .dog_foto {
+    
+    width: 329px;
+    height: 320px;
+    margin-left: 23px;
+    margin-right: 23px;
+    margin-top: 78px;
+    /* display:inline; */
+    position: relative;
+   
+  }
+
+  .dog_foto img {
+
+position: absolute;
+width: 274px;
+height: 342px;
+margin: 0;
+bottom: 0;
+right: 0;
+z-index: 0;
+
+
+  }  
+
+  .dog-text {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    z-index: 1;
+
+  }
+
+  .dogtext_2 {
+    margin-left: 28px;
+    margin-bottom: 25px;
+   
+  }
+
+
+  .womenbox {
+    width: 329px;
+    height: 320px;
+    margin-right: 23px;
+    margin-top: 47px;
+    background-color: #ff564f;
+    position: relative;
+    
+  }
+
+  .women {
+    width: 426px;
+    height: 302px;
+    margin-left: 0px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  }
+
+  .brand-amaz {
+    z-index: 1;
+   
+    margin-left: 23px;
+  }
+  
+  
+  
+
+.Check {
+    
+    margin-right: 0px;
+  }
+  
+
+  .four_text {
+    margin-right: 23px;
+    margin-left: 23px;
+    margin-top: 87px;
+    flex-direction: column;
+    gap: 36px;
+  
+  /*   padding-bottom: 85px; */
+    border-bottom: 1px solid;
+  }
+
+.four_nav {
+    display: none;
+}
+
+/* <!-- SECTION 5 -->
+<!-- SECTION 5 -->
+<!-- SECTION 5 --> */
+
+.section_five {
+  padding: 0px;
+  margin:0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+  
+.text_cv,.footer_signup {
+  padding: 0px;
+  margin:0 auto;
+}
+.text_cv_h1, .text_cv p {
+  margin-top: 20px;
+  margin-left: 23px;
+  margin-right: 23px;
+
+
+}
+
+
+.text_cv p{
+  margin-top: 0px;
+}
+
+.lila {
+  display: none;
+}
+
+.cv_girl {
+  width: 329px;
+  margin-top: 69px;
+  align-self: center;
+  height: 640px;
+  padding-bottom: 30px;
+
+}
+.cv_girl p {
+  padding: 0px;
+ 
+  margin:0 auto;
+
+}
+
+.cv_girl_row {
+  display: flex;
+  flex-direction: row;
+
+  margin-bottom: 80px;
+}
+
+.arrow_button2 {
+
+margin-left: 35%;
+ margin-top: 870px;
+
+}
+
+
+ 
+   /* <!-- SECTION 6 -->
+      <!-- SECTION 6 -->
+      <!-- SECTION 6 --> */
+      .six-logo {
+        margin-top: 520px;
+      }
+
+      .Our_latest {
+        margin-top: 85px;
+      }
+
+
+.six-logo, .Our_latest, .article_row {
+ 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.footer_signup {
+  
+  margin-bottom: 73px;
+  border-bottom: none;
+  
+}
+
+.footer_signup p {
+  margin: 0;
+  width: 214px;
+  height: 144px;
+ 
+}
+
+
+
+
+.form {
+
+  padding: 43px 48px 64px 48px;
+margin-left: 23px;
+margin-bottom: 120px;
+  height: 288px;
+
+
+  width: 329px;
+
+  background-color: #ff564f;
+  border-radius: 3px;
+  position:static;
+  
+}
+
+.form_sign button {
+  
+  padding: 14px 75px 15px 75px;
+}
+
+
+.articles img {
+
+  width: 329px;
+  height: 288px;
+}
+
+.footer {
+  margin-top: 100px;
+  
+}
+
+.Agency-row {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.footer {
+  background-color: black;
+  height: 1500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+.footer_signup {
+  padding-top: 20px;
+  
+}
+
+
+
+
+.Hide_mobile {
+    display: none;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

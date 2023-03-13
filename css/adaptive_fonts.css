@@ -1,0 +1,340 @@
+@media only screen and (max-width: 375px) and (orientation:portrait) {
+
+    /* HEADER */
+/* HEADER */
+/* HEADER */
+
+.main-nav p {
+    font-family: "Roboto";
+    color: white;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 114%;
+    margin-top: 15px;
+  }
+  
+  .main-nav li {
+    font-family: "DM Sans";
+    color: white;
+    font-weight: 400;
+    size: 24px;
+    line-height: 32px;
+    /* margin-top: 15px; */
+  }
+  
+  /* SECTION 1 */
+  /* SECTION 1 */
+  /* SECTION 1 */
+  
+  .section_one > h1 {
+    font-family: "Inknut Antiqua";
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    /*  Line-height: 43%; */
+    color: white;
+    text-transform: uppercase;
+  }
+  
+  .section_one > .Fukuoka_text > p, .text_cv p  {
+    font-family: "Roboto";
+    font-size: 1rem;
+    line-height: 2rem;
+    color: aliceblue;
+    font-weight: 500;
+    text-transform: capitalize;
+  }
+  
+  .border_bottom_line h1 {
+    margin-top: 10px;
+    font-family: "Roboto";
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 700;
+  }
+  
+  /* SECTION 2 */
+  /* SECTION 2 */
+  /* SECTION 2 */
+  
+  .lets {
+    line-height: 48px;
+    font-size: 40px;
+    font-family: "Inknut Antiqua";
+    font-weight: 900;
+  }
+  
+  .sable {
+    font-size: 16px;
+  
+    line-height: 32px;
+   
+    margin-right: 45px;
+  }
+  
+  .Best {
+    color: rgba(17, 17, 17, 0.5013);
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+  }
+  
+  .ex {
+  
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+  }
+  
+  /* SECTION 3 */
+  /* SECTION 3 */
+  /* SECTION 3 */
+  
+  
+  .Our {
+    font-size: 40px;
+    line-height: 48px;
+    font-family: "Inknut Antiqua";
+    font-weight: 900;
+    text-transform: uppercase;
+    }
+  
+    .Minuteness {
+      font-size: 16px;
+      font-family: "DM Sans";
+      line-height: 32px;
+      font-weight: 400;
+      text-align: start;
+      opacity: 50%;
+    }
+  
+    .green_photo h1 {
+      font-family: "Roboto";
+      font-size: 24px;
+      line-height: 32px;
+      font-weight: 700;
+      color: white;
+    }
+  
+    .green_photo p {
+      font-family: "DM Sans";
+      line-height: 32px;
+      font-size: 16px;
+      font-weight: 400;
+      color: white;
+      /* opacity: 50%; */
+    }
+  
+  
+  
+  
+  
+  /* SECTION 4 */
+  /* SECTION 4 */
+  /* SECTION 4 */
+  
+  .Check {
+    font-family: "Inknut Antiqua";
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+  
+  }
+  
+  .Minuteness_2 {
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+   
+    color: rgba(17, 17, 17, 0.5013);
+   
+  }
+  
+  
+  .Porfolio {
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #111111;
+  }
+  
+  .text-four {
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+  }
+  
+  .dogtext_2,
+  .AMAZING {
+    font-family: "Inknut Antiqua";
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+  }
+  
+  .dogtext_1 {
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    line-height: 171%;
+  }
+  
+  .AMAZING {
+    color: aliceblue;
+  }
+  .BRANDING {
+    font-family: "Roboto";
+    font-size: 1rem;
+    line-height: 2rem;
+    color: aliceblue;
+    font-weight: 400;
+    line-height: 171%;
+  }
+  
+  
+  /* SECTION 5 */
+  /* SECTION 5 */
+  /* SECTION 5 */
+  
+  .text_cv h1 {
+  
+    font-family: "Inknut Antiqua";
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 46px;
+    color: white;
+    text-transform: uppercase;
+  }
+  
+  .cv_girl h1 {
+    text-transform: uppercase;
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    color: white;
+  }
+  
+  
+  .cv_girl h3 {
+    font-family: "DM Sans";
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 32px;
+    color: white;
+  }
+  
+  
+  .cv_girl {
+    font-family: "DM Sans";
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 32px;
+    
+    color: white;
+    
+  }
+  
+  
+  /* SECTION 6 */
+  /* SECTION 6 */
+  /* SECTION 6 */
+  
+  
+  .articles h2, .articles h1 {
+    text-transform: uppercase;
+  }
+  
+  .articles h2,.Agency h4 {
+  
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+  
+  
+  
+  }
+  
+  
+  /* FOOTER */
+  /* FOOTER */
+  /* FOOTER */
+  
+  
+  
+  .articles h1, .Agency h3 {
+  
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+  
+  }
+  
+  .articles h3, .Agency li {
+  
+    font-family: "DM Sans";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: rgba(17, 17, 17, 0.5013);
+  
+  }
+  
+  .Agency li, .Agency h4, .Agency h3 {
+    color: white;
+  }
+  
+  .footer_signup p {
+  
+    font-family: "Inknut Antiqua";
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+   
+    color: white;
+    text-transform: uppercase;
+  
+  
+  }
+  
+  
+  
+  .form_sign button {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: white;
+  
+  }
+  
+  .form_sign input {
+    
+    font-family: "DM Sans";
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    
+  }
+  
+  
+  .form_sign label {
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: white;
+    text-transform: uppercase;
+  
+  }
+  
+  
+}
